@@ -1,10 +1,10 @@
 import React from "react";
-import Test from "@/components/Test";
+import Toolbar from "@/components/Toolbar";
 
 function App() {
   return (
-    <div className="App">
-      <Test />
+    <div className="App h-screen bg-gray-200">
+      <Toolbar />
     </div>
   );
 }
