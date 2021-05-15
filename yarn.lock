@@ -5160,10 +5160,10 @@ cpy@^8.1.1:
     p-filter "^2.1.0"
     p-map "^3.0.0"
 
-craco-alias@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/craco-alias/-/craco-alias-2.1.1.tgz#c9c2e9d333c674419591f3002a26cb073ee2094b"
-  integrity sha512-rTYOcHYlcCES0XUOcUgcCOXe6s+FvR1dTupvMYfeLLtQ4NWW143i3KtATXlNegBDyj/dZqtBEv6OieGG3yPZzg==
+craco-alias@2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/craco-alias/-/craco-alias-2.3.1.tgz#6d42b9771491685268b9a6bbeacaa4bbccd41d0b"
+  integrity sha512-i+N5JGpH61QChhfMtZsuy/5btncn9EczOq1XjaPPzBbzmQISAh0JtQhwMzIqefQfSNmRNgh4vePRJwfzroyaSA==
 
 create-ecdh@^4.0.0:
   version "4.0.4"
